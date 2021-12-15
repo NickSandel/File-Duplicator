@@ -15,7 +15,6 @@ namespace File_Duplicator
             //Read the data.
             for (int r = 1; r < num_rows; r++)
              {
-                Console.WriteLine();
                 FileInfo sourceFile = new FileInfo(values[r, 0]);
                 if (!sourceFile.Exists)
                 {
@@ -24,8 +23,9 @@ namespace File_Duplicator
                 FileInfo destinationFile = new FileInfo(values[r, 1]);
                 if (!destinationFile.Exists)
                 {
-                    Console.WriteLine(destinationFile.Name);
+                    destinationFile.Directory.Create();
                 }
+                sourceFile.CopyTo(values[r, 1], true);
              }
         }
 
