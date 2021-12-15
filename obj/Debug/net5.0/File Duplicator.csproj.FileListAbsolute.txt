@@ -1,0 +1,16 @@
+C:\Repos\File Duplicator\bin\Debug\net5.0\File Duplicator.exe
+C:\Repos\File Duplicator\bin\Debug\net5.0\File Duplicator.deps.json
+C:\Repos\File Duplicator\bin\Debug\net5.0\File Duplicator.runtimeconfig.json
+C:\Repos\File Duplicator\bin\Debug\net5.0\File Duplicator.runtimeconfig.dev.json
+C:\Repos\File Duplicator\bin\Debug\net5.0\File Duplicator.dll
+C:\Repos\File Duplicator\bin\Debug\net5.0\ref\File Duplicator.dll
+C:\Repos\File Duplicator\bin\Debug\net5.0\File Duplicator.pdb
+C:\Repos\File Duplicator\obj\Debug\net5.0\File Duplicator.csprojAssemblyReference.cache
+C:\Repos\File Duplicator\obj\Debug\net5.0\File Duplicator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\File Duplicator\obj\Debug\net5.0\File Duplicator.AssemblyInfoInputs.cache
+C:\Repos\File Duplicator\obj\Debug\net5.0\File Duplicator.AssemblyInfo.cs
+C:\Repos\File Duplicator\obj\Debug\net5.0\File Duplicator.csproj.CoreCompileInputs.cache
+C:\Repos\File Duplicator\obj\Debug\net5.0\File Duplicator.dll
+C:\Repos\File Duplicator\obj\Debug\net5.0\ref\File Duplicator.dll
+C:\Repos\File Duplicator\obj\Debug\net5.0\File Duplicator.pdb
+C:\Repos\File Duplicator\obj\Debug\net5.0\File Duplicator.genruntimeconfig.cache

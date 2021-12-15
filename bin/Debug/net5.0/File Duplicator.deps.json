@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "File Duplicator/1.0.0": {
+        "runtime": {
+          "File Duplicator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "File Duplicator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
